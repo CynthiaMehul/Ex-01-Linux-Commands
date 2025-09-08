@@ -79,6 +79,7 @@ The gedit is a general-purpose text editor. It can be used to create and edit al
 
 Syntax: gedit file_name
 
+<img width="1352" height="517" alt="image" src="https://github.com/user-attachments/assets/b2e52dad-a39b-47ac-b47e-18306df4f3c7" />
 
 ### 9)	su Command
 
@@ -93,12 +94,15 @@ The mv command is used to move a file or a directory form one location to anothe
 
 Syntax: mv <file name> <directory path>
 
- 
+<img width="468" height="327" alt="image" src="https://github.com/user-attachments/assets/bc9c1ec7-3cd7-46e0-9f28-0f93489b773f" />
+
 ## 11)	rename Command
 
 The rename command is used to rename files. It is useful for renaming a large group of files.
 
 Syntax: rename 's/old-name/new-name/' files
+
+<img width="282" height="147" alt="image" src="https://github.com/user-attachments/assets/a318633d-099e-4386-90c7-057a9f88b394" />
 
 
 ### 12)	head Command
